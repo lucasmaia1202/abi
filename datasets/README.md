@@ -28,7 +28,7 @@ store - Store ID
 item - Item ID
 sales - Number of items sold at a particular store on a particular date.
 
-[Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
+[Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data)
 
 #### Citation
 
